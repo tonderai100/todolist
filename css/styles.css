@@ -1,0 +1,57 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f2f3f4; /* Light Grey */
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+  background-color: #fff; /* White */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #039be5; /* Blue */
+}
+
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer; /* Add cursor pointer to task items */
+  transition: background-color 0.2s ease-in-out;
+}
+
+.collection-item:hover {
+  background-color: #f0f0f0; /* Light Grey on hover */
+}
+
+.collection-item span {
+  flex-grow: 2;
+}
+
+.low-priority {
+  background-color: #a5d6a7; /* Light Green */
+}
+
+.medium-priority {
+  background-color: #ffcc80; /* Light Orange */
+}
+
+.high-priority {
+  background-color: #ffab91; /* Light Red */
+}
+
+.btn {
+  margin-top: 12px;
+}
