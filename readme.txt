@@ -65,4 +65,4 @@ Problem-Solving Guru: I thrive on dissecting complex problems and finding innova
 Git Collaboration: Git has become second nature to me, facilitating seamless collaboration with teams.
 Eager Learner: My insatiable appetite for learning drives me to continuously improve and adapt.
 Conclusion 🌟
-This project, with its highs and lows, has been an invaluable learning experience. It's a testament to my determination and growth as a web developer. If you'd like to chat more about this project or explore potential collaborations, please feel free to reach out to me via [email or LinkedIn]. Let's connect and explore the exciting possibilities in the world of web development! 🌐
+This project, with its highs and lows, has been an invaluable learning experience. It's a testament to my determination and growth as a web developer. If you'd like to chat more about this project or explore potential collaborations, please feel free to reach out to me via [https://www.linkedin.com/in/tonderai-itai-8b204a25a/]. Let's connect and explore the exciting possibilities in the world of web development! 🌐
