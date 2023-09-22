@@ -1,6 +1,7 @@
 Tonderai's To-Do List Project 🚀
+
 Introduction
-Hello there! I'm Tonderai, and I want to take you on a journey through the creation of "Tonderai's To-Do List." 📝 This project is more than just a web application; it's a beginning to my passion for web development and the incredible learning experiences I've had.
+Hello there! I'm Tonderai, and I want to take you on my journey through the creation of omy very own to do list. 📝 This project is more than just a web application; it's a start of an adortation towards my passion for web development and the incredible learning experiences I've had.
 
 Project Overview
 Features Implemented 🛠️
